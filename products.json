@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "price_usd": 109.95,
+        "price_inr": 9125.85,
+        "category": "men's clothing",
+        "rating": 3.9,
+        "updated_at": "2025-12-18T13:45:44.351716+00:00"
+    },
+    {
+        "id": 2,
+        "title": "Mens Casual Premium Slim Fit T-Shirts ",
+        "price_usd": 22.3,
+        "price_inr": 1850.9,
+        "category": "men's clothing",
+        "rating": 4.1,
+        "updated_at": "2025-12-18T13:45:44.351774+00:00"
+    },
+    {
+        "id": 3,
+        "title": "Mens Cotton Jacket",
+        "price_usd": 55.99,
+        "price_inr": 4647.17,
+        "category": "men's clothing",
+        "rating": 4.7,
+        "updated_at": "2025-12-18T13:45:44.351794+00:00"
+    },
+    {
+        "id": 4,
+        "title": "Mens Casual Slim Fit",
+        "price_usd": 15.99,
+        "price_inr": 1327.17,
+        "category": "men's clothing",
+        "rating": 2.1,
+        "updated_at": "2025-12-18T13:45:44.351809+00:00"
+    },
+    {
+        "id": 5,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price_usd": 695.0,
+        "price_inr": 57685.0,
+        "category": "jewelery",
+        "rating": 4.6,
+        "updated_at": "2025-12-18T13:45:44.352262+00:00"
+    },
+    {
+        "id": 6,
+        "title": "Solid Gold Petite Micropave ",
+        "price_usd": 168.0,
+        "price_inr": 13944.0,
+        "category": "jewelery",
+        "rating": 3.9,
+        "updated_at": "2025-12-18T13:45:44.352291+00:00"
+    },
+    {
+        "id": 7,
+        "title": "White Gold Plated Princess",
+        "price_usd": 9.99,
+        "price_inr": 829.17,
+        "category": "jewelery",
+        "rating": 3.0,
+        "updated_at": "2025-12-18T13:45:44.352307+00:00"
+    },
+    {
+        "id": 8,
+        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "price_usd": 10.99,
+        "price_inr": 912.17,
+        "category": "jewelery",
+        "rating": 1.9,
+        "updated_at": "2025-12-18T13:45:44.352316+00:00"
+    },
+    {
+        "id": 9,
+        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "price_usd": 64.0,
+        "price_inr": 5312.0,
+        "category": "electronics",
+        "rating": 3.3,
+        "updated_at": "2025-12-18T13:45:44.352323+00:00"
+    },
+    {
+        "id": 10,
+        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "price_usd": 109.0,
+        "price_inr": 9047.0,
+        "category": "electronics",
+        "rating": 2.9,
+        "updated_at": "2025-12-18T13:45:44.352331+00:00"
+    },
+    {
+        "id": 11,
+        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "price_usd": 109.0,
+        "price_inr": 9047.0,
+        "category": "electronics",
+        "rating": 4.8,
+        "updated_at": "2025-12-18T13:45:44.352338+00:00"
+    },
+    {
+        "id": 12,
+        "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "price_usd": 114.0,
+        "price_inr": 9462.0,
+        "category": "electronics",
+        "rating": 4.8,
+        "updated_at": "2025-12-18T13:45:44.352345+00:00"
+    },
+    {
+        "id": 13,
+        "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "price_usd": 599.0,
+        "price_inr": 49717.0,
+        "category": "electronics",
+        "rating": 2.9,
+        "updated_at": "2025-12-18T13:45:44.352352+00:00"
+    },
+    {
+        "id": 14,
+        "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) \u2013 Super Ultrawide Screen QLED ",
+        "price_usd": 999.99,
+        "price_inr": 82999.17,
+        "category": "electronics",
+        "rating": 2.2,
+        "updated_at": "2025-12-18T13:45:44.352361+00:00"
+    },
+    {
+        "id": 15,
+        "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "price_usd": 56.99,
+        "price_inr": 4730.17,
+        "category": "women's clothing",
+        "rating": 2.6,
+        "updated_at": "2025-12-18T13:45:44.352369+00:00"
+    },
+    {
+        "id": 16,
+        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "price_usd": 29.95,
+        "price_inr": 2485.85,
+        "category": "women's clothing",
+        "rating": 2.9,
+        "updated_at": "2025-12-18T13:45:44.352376+00:00"
+    },
+    {
+        "id": 17,
+        "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "price_usd": 39.99,
+        "price_inr": 3319.17,
+        "category": "women's clothing",
+        "rating": 3.8,
+        "updated_at": "2025-12-18T13:45:44.352384+00:00"
+    },
+    {
+        "id": 18,
+        "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "price_usd": 9.85,
+        "price_inr": 817.55,
+        "category": "women's clothing",
+        "rating": 4.7,
+        "updated_at": "2025-12-18T13:45:44.352392+00:00"
+    },
+    {
+        "id": 19,
+        "title": "Opna Women's Short Sleeve Moisture",
+        "price_usd": 7.95,
+        "price_inr": 659.85,
+        "category": "women's clothing",
+        "rating": 4.5,
+        "updated_at": "2025-12-18T13:45:44.352409+00:00"
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "price_usd": 12.99,
+        "price_inr": 1078.17,
+        "category": "women's clothing",
+        "rating": 3.6,
+        "updated_at": "2025-12-18T13:45:44.352417+00:00"
+    }
+]
