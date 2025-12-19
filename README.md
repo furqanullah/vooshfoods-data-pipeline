@@ -143,7 +143,9 @@ React Dashboard
 If this system were in production:
 * Schedule pipeline using **cron / Azure Functions**
 * Add authentication for APIs
-* Centralized logging & monitoring (Datadog / Azure Monitor)
+* login and register page before redirecting Dashboard
+* Deployement of front-end and backend
+* Centralized logging & monitoring
 
 ---
 ## ✅ Key Takeaway
@@ -151,3 +153,9 @@ This project demonstrates:
 * Reliable data pipelines
 * Operational monitoring
 * Clear system visibility
+
+
+## Links
+
+- **GitHub Repository:** https://github.com/furqanullah/vooshfoods-data-pipeline
+- **Deployed Application:** https://vooshfoods-data-pipeline.netlify.app/
