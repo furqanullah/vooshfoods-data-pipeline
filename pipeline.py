@@ -1,6 +1,13 @@
 import requests
 from datetime import datetime, timezone
 from database import create_tables, get_connection
+import os
+from dotenv import load_dotenv
+
+
+load_dotenv()
+
+
 
 # -----------------------------
 # CONFIG
@@ -14,7 +21,8 @@ API_URL = "https://fakestoreapi.com/invalid"
 
 
 # Slack webhook URL
-SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+
 
 # -----------------------------
 # SLACK ALERT

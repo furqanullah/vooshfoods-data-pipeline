@@ -1,16 +1,4 @@
-# Python
-venv/
-__pycache__/
-*.pyc
-
-# Node
-node_modules/
-
-# Logs
-error.log
-
-# Environment
 .env
-
-# OS
-.DS_Store
+__pycache__/
+venv/
+node_modules/
