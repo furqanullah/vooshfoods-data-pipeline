@@ -139,6 +139,10 @@ React Dashboard
 * Uses **graceful degradation** (last good data remains visible)
 
 ---
+## 🚀  ✅ Implemented Slack notifications for pipeline failures.
+  - Sends a message to the configured Slack channel whenever a job fails.
+
+---
 ## 🚀 Improvements & Scaling (Future)
 If this system were in production:
 * Schedule pipeline using **cron / Azure Functions**
