@@ -145,7 +145,7 @@ React Dashboard
 ---
 ## 🚀 Improvements & Scaling (Future)
 If this system were in production:
-* Schedule pipeline using **cron / Azure Functions**
+* Schedule pipeline using cron
 * Add authentication for APIs
 * login and register page before redirecting Dashboard
 * Deployement of front-end and backend
